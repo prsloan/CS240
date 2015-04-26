@@ -1,0 +1,55 @@
+
+Current file name: NFL-Week-01.txt
+
+Current file name: NFL-Week-02.txt
+
+Current file name: NFL-Week-03.txt
+
+Current file name: NFL-Week-04.txt
+
+Current file name: NFL-Week-05.txt
+
+Current file name: NFL-Week-06.txt
+
+Current file name: NFL-Week-07.txt
+
+Current file name: NFL-Week-08.txt
+
+Current file name: NFL-Week-09.txt
+
+Current file name: NFL-Week-10.txt
+
+Current file name: NFL-Week-11.txt
+
+Current file name: NFL-Week-12.txt
+
+Current file name: NFL-Week-13.txt
+
+Current file name: NFL-Week-14.txt
+
+Current file name: NFL-Week-15.txt
+
+Current file name: NFL-Week-16.txt
+
+Current file name: NFL-Week-17.txt
+# of Colisions : 10
+Size of Table :50
+
+
+# of Names: 32
+Minimum Average : 14.4375
+Chicago 
+Maximum Average : 32.625
+Indianapolis 
+Enter name : Philadelphia
+Philadelphia  Average : 24.125 # of Scores :16
+Enter name : Blah
+Blah Not Found. Try Again
+Enter name : Green Bay
+Green Bay  Average : 26.5 # of Scores :16
+Enter name : Tennesee
+Tennesee Not Found. Try Again
+Enter name : Tennessee
+Tennessee  Average : 21.5 # of Scores :16
+Enter name : exit
+ Thanks for using this program!
